@@ -1,0 +1,39 @@
+2023-02-27 22:13:30,552 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:19:45,376 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:20:06,663 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:23:08,803 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:24:11,520 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:25:34,875 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 22:30:55,462 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:30:56,583 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 22:33:09,537 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:36:27,911 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 22:39:44,173 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:39:45,466 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 22:40:45,510 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:40:46,641 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 22:41:34,649 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:41:35,796 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 22:49:15,913 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:49:17,116 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 22:50:23,154 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:53:10,763 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 22:58:24,995 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 22:58:37,021 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 23:02:47,027 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 23:03:09,379 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 23:04:51,185 - Not response.ok returned from RemoveTrack api call: {'status': 400, 'message': "JSON body doesn't conform to specification"}
+2023-02-27 23:06:02,819 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 23:06:29,033 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 23:08:13,558 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 23:08:35,788 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 23:12:24,958 - Adding 2 track(s) to playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 23:13:51,803 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 23:14:39,807 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 23:14:50,967 - Adding 2 track(s) to playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 23:21:29,033 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 23:21:30,096 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 23:21:31,970 - Adding 2 track(s) to playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 23:21:50,542 - Playlist object created for playlist Test playlist and populated with 44 tracks.
+2023-02-27 23:21:51,862 - Removing 2 track(s) from playlist 2UmDYQxgIDaKikeG53Ffd5
+2023-02-27 23:21:54,096 - Adding 2 track(s) to playlist 2UmDYQxgIDaKikeG53Ffd5
